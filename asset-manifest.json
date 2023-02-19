@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/progressive-react/static/css/main.a9d55580.css",
-    "main.js": "/progressive-react/static/js/main.1238f2b6.js",
+    "main.js": "/progressive-react/static/js/main.e7eeadeb.js",
     "service-worker.js": "/progressive-react/service-worker.js",
     "static/media/SEGA.woff": "/progressive-react/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/progressive-react/index.html",
     "main.a9d55580.css.map": "/progressive-react/static/css/main.a9d55580.css.map",
-    "main.1238f2b6.js.map": "/progressive-react/static/js/main.1238f2b6.js.map"
+    "main.e7eeadeb.js.map": "/progressive-react/static/js/main.e7eeadeb.js.map"
   },
   "entrypoints": [
     "static/css/main.a9d55580.css",
-    "static/js/main.1238f2b6.js"
+    "static/js/main.e7eeadeb.js"
   ]
 }
